@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer__content">
           <p className="footer__text">
-            © 2023 Your IT Company. All rights reserved.
+            © 2023 iPro. All rights reserved.
           </p>
           <div className="footer__social">
             <a href="#" className="footer__social-link">

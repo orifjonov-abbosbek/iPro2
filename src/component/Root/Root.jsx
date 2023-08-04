@@ -3,6 +3,7 @@ import Nav from "../Navbar/Nav";
 import Home from "../../pages/Home/Home";
 import Loader from "../Loader/loader";
 import { Routes, Route } from "react-router-dom";
+import Footer from "../Footer/Footer";
 
 const Root = () => {
   const [loading, setLoading] = useState(true);
@@ -41,6 +42,8 @@ const Root = () => {
       <Routes>
         <Route path="/" element={<Home />} />
       </Routes>
+
+      <Footer />
     </>
   );
 };
