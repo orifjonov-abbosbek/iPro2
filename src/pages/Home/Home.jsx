@@ -51,7 +51,7 @@ const Home = () => {
                   </div>
 
                   <div className="front-content">
-                    <small className="badge">Pasta</small>
+                    <small className="badge">iPro</small>
                     <div className="description">
                       <div className="title">
                         <p className="title">
@@ -85,7 +85,7 @@ const Home = () => {
                   </div>
 
                   <div className="front-content">
-                    <small className="badge">Pasta</small>
+                    <small className="badge">iPro</small>
                     <div className="description">
                       <div className="title">
                         <p className="title">
@@ -119,7 +119,7 @@ const Home = () => {
                   </div>
 
                   <div className="front-content">
-                    <small className="badge">Pasta</small>
+                    <small className="badge">iPro</small>
                     <div className="description">
                       <div className="title">
                         <p className="title">

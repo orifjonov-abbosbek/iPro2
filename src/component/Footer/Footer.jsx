@@ -11,20 +11,6 @@ const Footer = () => {
           <p className="footer__text">
             © 2023 iPro. All rights reserved.
           </p>
-          <div className="footer__social">
-            <a href="#" className="footer__social-link">
-              <i className="fab fa-facebook-f"></i>
-            </a>
-            <a href="#" className="footer__social-link">
-              <i className="fab fa-twitter"></i>
-            </a>
-            <a href="#" className="footer__social-link">
-              <i className="fab fa-linkedin-in"></i>
-            </a>
-            <a href="#" className="footer__social-link">
-              <i className="fab fa-instagram"></i>
-            </a>
-          </div>
         </div>
       </div>
     </footer>

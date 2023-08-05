@@ -48,6 +48,7 @@ main {
     &__grid {
          display: flex;
          justify-content: space-between;
+         flex-wrap: wrap;
 
       .services__item {
         background-color: #fff;
