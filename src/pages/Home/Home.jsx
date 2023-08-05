@@ -35,7 +35,7 @@ const Home = () => {
             Our Services
           </h2>
           <div className="services__grid">
-            <div className="card">
+            <div className="card" data-aos="fade-right">
               <div className="content">
                 <div className="back">
                   <div className="back-content">
@@ -69,7 +69,7 @@ const Home = () => {
               </div>
             </div>
 
-            <div className="card">
+            <div className="card" data-aos="fade-left">
               <div className="content">
                 <div className="back">
                   <div className="back-content">
@@ -103,7 +103,7 @@ const Home = () => {
               </div>
             </div>
 
-            <div className="card">
+            <div className="card" data-aos="flip-left">
               <div className="content">
                 <div className="back">
                   <div className="back-content">
